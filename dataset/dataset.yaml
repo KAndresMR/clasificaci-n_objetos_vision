@@ -1,0 +1,6 @@
+path: /Users/andresmorocho/Downloads/coco_person
+train: images/train
+val: images/val
+
+names:
+  0: person
